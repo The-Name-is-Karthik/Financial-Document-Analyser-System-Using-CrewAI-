@@ -26,7 +26,7 @@ An intelligent, multi-agent financial analysis system built with **FastAPI**, **
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 financial-analyzer-v3/
@@ -48,7 +48,7 @@ financial-analyzer-v3/
 
 ---
 
-##  Setup & Installation
+## Setup & Installation
 
 ### 1. Environment Setup
 ```bash
